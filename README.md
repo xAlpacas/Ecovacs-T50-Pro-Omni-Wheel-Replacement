@@ -2,7 +2,7 @@
 
 > Replace both drive wheels, get the bumper off and back on correctly, and clear “Wheel Speed Sensor Error” and “Wheel Stuck” afterwards.
 
-> **Source:** one real, successful repair in July 2026, checked frame-by-frame against a screen recording of the Messenger conversation. See “Checked against the recording” at the end for what was corrected.
+> **Source:** one real, successful repair in July 2026.
 
 
 
@@ -240,15 +240,6 @@ Source note: Steps, error wording, usage figures (3 months, vacuum 5 days/week, 
 Acknowledgement: thanks to the technician in Indonesia who talked this repair through step by step — including the bumper and the reboot — without ever having a T50 officially sold in his market.
 
 
-## Checked against the recording — what changed in this revision
-
-The broad order of the first version was confirmed against a 60-second screen recording of the chat, frame by frame: disassembly on July 18 (bumper, top cover, wheel swap), the 5:23pm bumper reassembly question, then “Holy crap it works again!” at 8:47pm, the Wheel Stuck message, the reboot, the old-wheel test, and the AliExpress backup question the next day. That sequence has not been reordered. Three material errors in the first version were corrected:
-
-- 1. Top cover (Step 3): removed an invented pry-tool method and added the helper's actual hand-pull method, plus the omitted battery step — battery out first, check for screws under the battery, only then pull the top cover.
-- 2. Wheel removal (Step 5): removed invented wheel-module retaining screws and added the actual sequence — retaining pin underneath first, then the spring, then transfer the grey rubber to the new wheel with tweezers (it is reused).
-- 3. Bumper screws (Step 7) and blue wire (Step 4): corrected the attribution. The bumper-screw question was never answered by the helper — the owner self-resolved it (“Nevermind sorry lol / Good to go!”) — so the guide no longer presents a diagnosis as fact. The blue lead's identification as a replacement limit switch was the owner's own, not the helper's confirmation, and is now attributed that way; the photos show only that it shares the wheel connector.
-Also added in this revision: the owner's Dreame comparison in Step 2 context, and the app's printed Wheel Stuck solution in Step 8 and the troubleshooting table.
-
 
 ## Troubleshooting
 
@@ -263,9 +254,3 @@ Also added in this revision: the owner's Dreame comparison in Step 2 context, an
 | Error returns every run after reboot | Not a glitch — a module, sensor or connection fault remains | Test both removed/new modules, swap sides only as a diagnostic if you are comfortable doing so |
 
 
-## Checked against the recording — what changed in this revision
-
-- **Top cover:** battery out first, check for screws under the battery, then left hand holding the dustbox area, right hand pulling up the back part of the top cover. It does require a bit of force.
-- **Wheel removal:** retaining pin underneath first, then remove the spring. Tweezers to grab/transfer the gray rubber piece to the new wheel — it is reused, do not discard it. No screws were visible on first glance.
-- **Bumper screws (Jul 18, 5:23pm):** the helper never answered this question in the chat; the owner self-resolved it with “Nevermind sorry lol / Good to go!” This guide therefore cannot conclude why the screws seemed unconnected. Do not leave bumper screws loose; reseat the bumper fully and check alignment before tightening.
-- **Blue wire:** the owner self-identified it as a replacement limit switch; the helper never confirmed it. The blue lead shares the wheel connector.
