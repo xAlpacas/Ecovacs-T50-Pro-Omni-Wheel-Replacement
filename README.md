@@ -4,7 +4,6 @@
 
 > **Source:** one real, successful repair in July 2026, checked frame-by-frame against a screen recording of the Messenger conversation. See “Checked against the recording” at the end for what was corrected.
 
-> **Full guide with embedded photos:** [Ecovacs T50 Pro Omni Wheel Replacement Guide.docx](https://docs.google.com/document/d/1brh9ZtEo4x3-ItVQbhjUDEshcecY6GAk/edit?usp=drivesdk&ouid=115513877340949366550&rtpof=true&sd=true) (Google Drive)
 
 
 *Figure 1 — Underside with the bumper removed. Blue battery pack at the top, main brush housing in the middle, and a drive wheel on each side. This is the view you start from.*
